@@ -1,8 +1,6 @@
 # Hi, I'm Jason.
 
-I know some HTML, CSS, JavaScript.
-
-Learning Python.
+I know some HTML, CSS, JavaScript, and Python.
 
 ![Jason's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jasn57&theme=dark&hide_border=true)
 
