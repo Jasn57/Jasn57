@@ -1,7 +1,7 @@
 # Hi Im Jason
 
 I know some Python, HTML, and JavaScript.
-I hate css
+I hate css.
 
 ![Jason's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasn57&layout=compact&theme=dark)
 
