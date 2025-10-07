@@ -1,5 +1,5 @@
 # About Me
-Hi, I’m Jason, a 15year-old developer.  
+Hi, I’m Jason, a 15 year old developer.  
 I daily drive Linux (mint btw).  
 I am currently writing Minecraft server plugins in Java.
 
