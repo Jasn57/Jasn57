@@ -1,6 +1,6 @@
 # About Me
 Hi, I’m Jason, a 15 year old developer.  
-I daily drive Linux (Ubuntu btw).  
+I daily drive Linux (Mint btw).  
 I am currently working on a browser game.
 
 # Tech Stack:
