@@ -1,5 +1,5 @@
 # About Me
-Hi, I’m Jason, a 15 year old web developer / Ux/Ui Designer.  
+Hi, I’m Jason, a 15 year old Ux/Ui Designer / frontend web developer.  
 I daily drive Linux (Mint btw).  
 
 # Tech Stack:
